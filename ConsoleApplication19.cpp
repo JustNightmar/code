@@ -66,6 +66,9 @@ map<string, vector<int>> getGrades() {
 int main() {
 	map<string, vector<int>> grades = getGrades();
 	cout << grades;
+	cout << grades;
+	cout << grades;
+	cout << grades;
 	cout << endl;
     return 0;
 }
